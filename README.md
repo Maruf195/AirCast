@@ -1,2 +1,2 @@
 # AirCast
-Code and dataset repository for the AirCast CVPR project.
+Code and dataset repository for the AirCast.
